@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cad12da1-4517-4103-bc5b-46c8bbe46518" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HqtKZ4F3M5DXu8npL72ijMK6iy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/RAJ/IdeaProjects/com-herokuaap-sw-2-raj/jars/selenium-server-4.6.0.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\RAJ\IdeaProjects\com-herokuaap-sw-2-raj\drivers" />
+      <recent name="C:\Users\RAJ\IdeaProjects\com-herokuaap-sw-2-raj\jars" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LoginPage">
+    <configuration name="LoginPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com-herokuaap-sw-2-raj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsuite" />
+      <option name="MAIN_CLASS_NAME" value="testsuite.LoginPage" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPage.UserShouldLoginSuccessfullyWithValidCredentials" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com-herokuaap-sw-2-raj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsuite" />
+      <option name="MAIN_CLASS_NAME" value="testsuite.LoginPage" />
+      <option name="METHOD_NAME" value="UserShouldLoginSuccessfullyWithValidCredentials" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPage.verifyThePasswordErrorMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com-herokuaap-sw-2-raj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsuite" />
+      <option name="MAIN_CLASS_NAME" value="testsuite.LoginPage" />
+      <option name="METHOD_NAME" value="verifyThePasswordErrorMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPage.verifyTheUsernameErrorMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com-herokuaap-sw-2-raj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testsuite" />
+      <option name="MAIN_CLASS_NAME" value="testsuite.LoginPage" />
+      <option name="METHOD_NAME" value="verifyTheUsernameErrorMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginPage" />
+        <item itemvalue="JUnit.LoginPage.verifyThePasswordErrorMessage" />
+        <item itemvalue="JUnit.LoginPage.verifyTheUsernameErrorMessage" />
+        <item itemvalue="JUnit.LoginPage.UserShouldLoginSuccessfullyWithValidCredentials" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cad12da1-4517-4103-bc5b-46c8bbe46518" name="Changes" comment="" />
+      <created>1669024377598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669024377598</updated>
+    </task>
+    <servers />
+  </component>
+</project>
